@@ -20,7 +20,8 @@
     "npm": "^9.2.0",
     "quick.db": "^9.0.8",
     "web-streams-polyfill": "^3.2.1",
-    "wrench": "^1.5.9"
+    "wrench": "^1.5.9",
+    "body-parser": "^1.20.1"
   },
   "devDependencies": {
     "node-env-run": "^4.0.2"
